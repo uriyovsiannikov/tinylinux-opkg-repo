@@ -1,0 +1,10 @@
+Package: hello-test
+Version: 1.0.0
+Architecture: x86_64
+Maintainer: You <you@example.com>
+MD5Sum: 1424a932bea9783895071d9034b20935
+Size: 622
+Filename: hello-test_1.0.0_x86_64.ipk
+Description: Test package
+
+
