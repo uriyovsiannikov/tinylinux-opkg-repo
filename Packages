@@ -1,10 +1,12 @@
-Package: hello-test
-Version: 1.0.0
+Package: fastfetch
+Version: 2.61.0
+Section: utils
 Architecture: x86_64
-Maintainer: You <you@example.com>
-MD5Sum: 1424a932bea9783895071d9034b20935
-Size: 622
-Filename: hello-test_1.0.0_x86_64.ipk
-Description: Test package
+Maintainer: uriy <uriy@tinylinux>
+MD5Sum: ae74dfdce4eb2d12b1b34b94f4de0306
+Size: 3656744
+Filename: fastfetch_2.61.0_x86_64.ipk
+Description: fastfetch package
+Priority: optional
 
 
