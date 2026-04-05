@@ -10,3 +10,15 @@ Description: fastfetch package
 Priority: optional
 
 
+Package: nsnake
+Version: 3.0.0
+Section: utils
+Architecture: x86_64
+Maintainer: uriy <uriy@tinylinux>
+MD5Sum: c90c4faadadf9c6e928d398cf6c3aaa1
+Size: 184392
+Filename: nsnake_3.0.0_x86_64.ipk
+Description: nsnake package
+Priority: optional
+
+
